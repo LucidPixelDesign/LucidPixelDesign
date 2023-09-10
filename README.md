@@ -1,4 +1,4 @@
-This is the official GitHubm account of Lucid Pixel.
+This is the official GitHub account of Lucid Pixel.
 
 Our Mission:
 At Lucid Pixel Web Design, we are more than just a web design company; we are passionate architects of digital experiences.
